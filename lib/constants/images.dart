@@ -1,0 +1,14 @@
+final String popular1 = "assets/images/home_images/Home-01.jpg";
+final String popular2 = "assets/images/home_images/Home-02.jpg";
+final String popular3 = "assets/images/home_images/Home-03.jpg";
+final String popular4 = "assets/images/home_images/Home-04.jpg";
+final String popular5 = "assets/images/home_images/Home-05.jpg";
+final String popular6 = "assets/images/home_images/Home-06.jpg";
+final String popular7 = "assets/images/home_images/Home-07.jpg";
+final String popular8 = "assets/images/home_images/Home-08.jpg";
+final String popular9 = "assets/images/home_images/Home-09.jpg";
+final String popular10 = "assets/images/home_images/Home-10.jpg";
+final String popular11 = "assets/images/home_images/Home-11.jpg";
+final String popular12 = "assets/images/home_images/Home-12.jpg";
+final String get01 = "assets/images/get_to_know/Get-01.jpg";
+final String get02 = "assets/images/get_to_know/Get-02.jpg";

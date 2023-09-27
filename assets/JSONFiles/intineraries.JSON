@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "reservation_name": "03 Days Safari",
+        "reservation_description" : [
+            {
+                "day" :  "DAY 01:- ARRIVAL - MANYARA",
+                "description" : "Welcoming, at Kilimanjaro International Airport after accomplishing all the documents then travel to Manyara national park covering to 3Hrs safari for game drive, enjoying flora and fauna in the park. Vegetation is diverse, ranging from Savannah marshes to acacia woodland enabling it to support a remarkable variety of habitat. Main allures are tree-climbing lions, hippopotamus, elephants, zebras, giraffe, birds, Lake Manyara (the alkaline Lake) and you leave the park in the evening drive to the lodge for dinner and overnight at public camping in Manyara."
+            },
+            {
+                "day" : "DAY 02:- NGORONGORO",
+                "description" : "Early in the Morning we will drive to Ngorongoro crater for game drive down the crater floor. The crater is blessed with wild life with undoubtedly the richest wild animal’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, back to Ngorongoro Simba public camp above rim for evening and overnight."
+            },
+            {
+                "day" : "Day 03:- TARANGIRE - DEPARTURE",
+                "description" : "Early in the Morning we will drive to Tarangire national park for game drive at the richest vista of an endless golden Savannah. Tarangire is pageant of wild life with undoubtedly the richest elephant’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds, supposed tree climbing pythons. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, spend night at Banana eco lodge."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "reservation_name": "04 Days Safari",
+        "reservation_description" : [
+            {
+                "day" :  "DAY 01:- ARRIVAL - MANYARA",
+                "description" : "Welcoming, at Kilimanjaro International Airport after accomplishing all the documents then travel to Manyara national park covering to 3Hrs safari for game drive, enjoying flora and fauna in the park. Vegetation is diverse, ranging from Savannah marshes to acacia woodland enabling it to support a remarkable variety of habitat. Main allures are tree-climbing lions, hippopotamus, elephants, zebras, giraffe, birds, Lake Manyara (the alkaline Lake) and you leave the park in the evening drive to the lodge for dinner and overnight at public camping in Manyara."
+            },
+            {
+                "day" : "DAY 02:- NGORONGORO",
+                "description" : "Early in the Morning we will drive to Ngorongoro crater for game drive down the crater floor. The crater is blessed with wild life with undoubtedly the richest wild animal’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, back to Ngorongoro Simba public camp above rim for evening and overnight."
+            },
+            {
+                "day" : "Day 03:- TARANGIRE",
+                "description" : "Early in the Morning we will drive to Tarangire national park for game drive at the richest vista of an endless golden Savannah. Tarangire is pageant of wild life with undoubtedly the richest elephant’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds, supposed tree climbing pythons. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, spend night at Banana eco lodge."
+            },
+            {
+                "day" : "DAY 04:- LAKE EYASI - DEPARTURE",
+                "description" : "Early in the morning we’ll have a morning call of coffee, tea, toast or fruits and breakfast the transfer to Lake Eyasi, discover different tribes such as the Hadzabes, hunting withthem and catch some skills and the Datoga, these are black smiths. Then back to Manyara Secret lodge."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "reservation_name": "05 Days Safari",
+        "reservation_description" : [
+            {
+                "day" :  "DAY 01:- ARRIVAL - MANYARA",
+                "description" : "Welcoming, at Kilimanjaro International Airport after accomplishing all the documents then travel to Manyara national park covering to 3Hrs safari for game drive, enjoying flora and fauna in the park. Vegetation is diverse, ranging from Savannah marshes to acacia woodland enabling it to support a remarkable variety of habitat. Main allures are tree-climbing lions, hippopotamus, elephants, zebras, giraffe, birds, Lake Manyara (the alkaline Lake) and you leave the park in the evening drive to the lodge for dinner and overnight at public camping in Manyara."
+            },
+            {
+                "day" : "DAY 02:- LAKE EYASI",
+                "description" : "Early in the morning we’ll have a morning call of coffee, tea, toast or fruits and breakfast the transfer to Lake Eyasi, discover different tribes such as the Hadzabes, hunting withthem and catch some skills and the Datoga, these are black smiths. Then back to Manyara Secret lodge."
+            },
+            {
+                "day" : "DAY 03 - 04:- NGORONGORO",
+                "description" : "Early in the Morning we will drive to Ngorongoro crater for game drive down the crater floor. The crater is blessed with wild life with undoubtedly the richest wild animal’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, back to Ngorongoro Simba public camp above rim for evening and overnight."
+            },
+            {
+                "day" : "Day 05:- TARANGIRE - DEPARTURE",
+                "description" : "Early in the Morning we will drive to Tarangire national park for game drive at the richest vista of an endless golden Savannah. Tarangire is pageant of wild life with undoubtedly the richest elephant’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds, supposed tree climbing pythons. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, spend night at Banana eco lodge."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "reservation_name": "06 Days Safari",
+        "reservation_description" : [
+            {
+                "day" :  "DAY 01:- ARRIVAL - TARANGIRE",
+                "description" : "Early in the Morning we will drive to Ngorongoro crater for game drive down the crater floor. The crater is blessed with wild life with undoubtedly the richest wild animal’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, back to Ngorongoro Simba public camp above rim for evening and overnight."
+            },
+            {
+                "day" : "DAY 02 - 03:- NGORONGORO",
+                "description" : "Early in the morning we’ll have a morning call of coffee, tea, toast or fruits and breakfast the transfer to Lake Eyasi, discover different tribes such as the Hadzabes, hunting withthem and catch some skills and the Datoga, these are black smiths. Then back to Manyara Secret lodge."
+            },
+            {
+                "day" : "DAY 04:- SERENGETI",
+                "description" : "Early in the morning we’ll have French breakfast (toast, coffee, tea, biscuits, fruits) then full day game drive; Leaving for sunrise game drives till noon then game drive back to lodge for overnight at Sueños lodge."
+            },
+            {
+                "day" : "DAY 05:- SERENGETI",
+                "description" : "Early in the morning we’ll move for to view sunrise with short game viewing spotting hippopotamus trails back for breakfast then we’ll have full game drive in t he central, western, northern and eastern Serengeti. Evening drive back to Sueños lodge."
+            },
+            {
+                "day" : "DAY 06:-MANYARA - DEPARTURE",
+                "description" : "In the morning drive to Manyara national for game drive, enjoying flora and fauna in the park. Vegetation is diverse, ranging from Savannah marshes to acacia woodland enabling it to support a remarkable variety of habitat. Main allures are tree-climbing lions, hippopotamus, elephants, zebras, giraffe, birds, Lake Manyara (the alkaline Lake) and you leave the park in the evening drive to the lodge for dinner and overnight at public camping in Manyara."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "reservation_name": "07 Days Safari",
+        "reservation_description" : [
+            {
+                "day" :  "DAY 01:- MANYARA - ARRIVAL",
+                "description" : "Pick up Kilimanjaro International Airport after accomplishing all the documents then travel to Manyara national park covering to 3Hrs safari for game drive, enjoying flora and fauna in the park. Vegetation is diverse, ranging from Savannah marshes to acacia woodland enabling it to support a remarkable variety of habitat. Main allures are tree- climbing lions, hippopotamus, elephants, zebras, giraffe, birds, Lake Manyara (the alkaline Lake) and you leave the park in the evening drive to the lodge for dinner and overnight at public camping in Manyara."
+            },
+            {
+                "day" : "DAY 02:- SERENGETI",
+                "description" : "Early in the morning we’ll have French breakfast (toast, coffee, tea, biscuits, fruits) then full day game drive; Leaving for sunrise game drives till noon then game drive back to lodge for overnight at Sueños lodge."
+            },
+            {
+                "day" : "DAY 03:- SERENGETI",
+                "description" : "Early in the morning we’ll move for to view sunrise with short game viewing spotting hippopotamus trails back for breakfast then we’ll have full game drive in t he central, western, northern and eastern Serengeti. Evening drive back to Sueños lodge."
+            },
+            {
+                "day" : "DAY 04 - 05:- NGORONGORO",
+                "description" : "Early in the Morning we will drive to Ngorongoro crater for game drive down the crater floor. The crater is blessed with wild life with undoubtedly the richest wild animal’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, back to Ngorongoro Simba public camp above rim for evening and overnight."
+            },
+            {
+                "day" : "DAY 06:- LAKE EYASI",
+                "description" : "Early in the morning we’ll have a morning call of coffee, tea, toast or fruits and breakfast the transfer to Lake Eyasi, discover different tribes such as the Hadzabes, hunting with them and catch some skills and the Datoga, these are black smiths. Then back to Manyara Secret lodge."
+            },
+            {
+                "day" : "DAY 07:- TARANGIRE",
+                "description" : "Early in the Morning we will drive to Tarangire national park for game drive at the richest vista of an endless golden Savannah. Tarangire is pageant of wild life with undoubtedly the richest elephant’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds, supposed tree climbing pythons. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, spend night at Banana eco lodge."
+            },
+            {
+                "day" : "DAY 08:- TRANSFER TO ZANZIBAR",
+                "description" : "After breakfast, drive towards Arusha airport or Kilimanjaro airport depart to Zanzibar."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "reservation_name": "08 Days Safari",
+        "reservation_description" : [
+            {
+                "day" :  "DAY 01:- MANYARA - ARRIVAL",
+                "description" : "Pick up Kilimanjaro International Airport after accomplishing all the documents then travel to Manyara national park covering to 3Hrs safari for game drive, enjoying flora and fauna in the park. Vegetation is diverse, ranging from Savannah marshes to acacia woodland enabling it to support a remarkable variety of habitat. Main allures are tree- climbing lions, hippopotamus, elephants, zebras, giraffe, birds, Lake Manyara (the alkaline Lake) and you leave the park in the evening drive to the lodge for dinner and overnight at public camping in Manyara."
+            },
+            {
+                "day" : "DAY 02:- NGORONGORO",
+                "description" : "Early in the Morning we will drive to Ngorongoro crater for game drive down the crater floor. The crater is blessed with wild life with undoubtedly the richest wild animal’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, back to Ngorongoro Simba public camp above rim for evening and overnight."
+            },
+            {
+                "day" : "DAY 03:- SERENGETI",
+                "description" : "After breakfast, transfer to Serengeti via Olduvai gorge museum, Maasai village, game viewing for a wild animals evening dinner and overnight at Sueños lodge."
+            },
+            {
+                "day" : "DAY 04:- SERENGETI",
+                "description" : "Early in the morning we’ll have French breakfast (toast, coffee, tea, biscuits, fruits) then full day game drive; Leaving for sunrise game drives till noon then game drive back to lodge for overnight at Sueños lodge."
+            },
+            {
+                "day" : "DAY 05:- SERENGETI",
+                "description" : "Early in the morning we’ll move for to view sunrise with short game viewing spotting hippopotamus trails back for breakfast then we’ll have full game drive in the central, western, northern and eastern Serengeti. Evening drive back to Sueños lodge."
+            },
+            {
+                "day" : "DAY 06:- ROUTE TO EYASI",
+                "description" : "After breakfast, we’ll drive slowly departing Serengeti through Serengeti gate heading to Eyasi via Olduvai gorge and the Maasai’s villages. Spending evening at Lake Eyasi or Karatu Camp."
+            },
+            {
+                "day" : "DAY 07:- LAKE EYASI",
+                "description" : "Early in the morning we’ll have a morning call of coffee, tea, toast or fruits and breakfast the transfer to Lake Eyasi, discover different tribes such as the Hadzabes, hunting with them and catch some skills and the Datoga, these are black smiths. Then back to Manyara Secret lodge."
+            },
+            {
+                "day" : "DAY 08:- TARANGIRE",
+                "description" : "Early in the Morning we will drive to Tarangire national park for game drive at the richest vista of an endless golden Savannah. Tarangire is pageant of wild life with undoubtedly the richest elephant’s population in Africa with surprisingly large herds. It has an extensive collection of exotic birds, supposed tree climbing pythons. You may spot antelopes, lions, leopards, buffaloes, baobab trees which are one of the world's biggest trees it can be seen thriving all along the banks and all over the park too. Then, in the evening, spend night at Banana eco lodge."
+            },
+            {
+                "day" : "DAY 09:- TRANSFER TO ZANZIBAR",
+                "description" : "After breakfast, drive towards Arusha airport or Kilimanjaro airport depart to Zanzibar."
+            }
+        ]
+    }
+]
